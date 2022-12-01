@@ -1,4 +1,4 @@
-package template;
+package core;
 
 public class main {
 
