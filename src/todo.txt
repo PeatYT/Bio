@@ -1,0 +1,14 @@
+todo:
+create graphics classes
+create user input class
+-GUI overlay
+create 3d->2d molecule sprite generator
+create 'known molecules' list
+create generalization engine for setting the focus of the simulation
+"zoom" variable to determine scope
+create parser class for multiple types of file
+-molecule library file
+-genome file
+-pre-simulated damages cache
+create physics engine for molecular collisions and temperature
+create diffusion engine to simulate particulate motion
