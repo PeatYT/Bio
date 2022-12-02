@@ -15,7 +15,7 @@ public class main {
 		//TODO load prefs
 		//TODO load 'projects'
 		//TODO load current simulation (start a simulator)
-		//creates the main screen
+		//creates the main screen 
 		screen = new Screen();
 		
 		screen.create();
