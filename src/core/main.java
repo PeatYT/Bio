@@ -18,8 +18,10 @@ public class main {
 		//creates the main screen, visible
 		screen = new Screen();
 		
-		
-		
+		screen.create();
+		while(true) {
+			//keeps the thread running, idk if this is useful, but it can't hurt that much
+		}
 	}
 
 }

@@ -1,6 +1,5 @@
 todo:
 create graphics classes
-create user input class
 -GUI overlay
 create 3d->2d molecule sprite generator
 create 'known molecules' list
